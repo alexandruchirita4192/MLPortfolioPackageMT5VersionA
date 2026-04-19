@@ -1,5 +1,7 @@
 # MT5 Portfolio Version A EA
 
+## Warning! Disclaimer: This EA is using successful algorithms for each symbol but it seems to run slower and has not been tested, it is not confirmed as successful not even on historical data. Use at your own risk, after testing!
+
 This EA is a single master executor with two independent sleeves:
 
 - BTCUSD M15 -> LinearSVC + calibrated probabilities
